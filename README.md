@@ -15,7 +15,7 @@ The entry in the nth row and kth column of Pascal's triangle is denoted ![Pascal
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/203b128a098e18cbb8cf36d004bd7282b28461bf)
 
-for any non-negative integer n and any integer k between 0 and n, inclusive.[4] This recurrence for the binomial coefficients is known as Pascal's rule.
+for any non-negative integer n and any integer k between 0 and n, inclusive. This recurrence for the binomial coefficients is known as Pascal's rule.
 
 Pascal's triangle has higher dimensional generalizations. The three-dimensional version is called Pascal's pyramid or Pascal's tetrahedron, while the general versions are called Pascal's simplices.
 
